@@ -1,4 +1,4 @@
-# transcript_to_fabric5
+# Inscribe
 
 Turn a YouTube video into a **cleaned transcript**, then pipe it into **Fabric** (local LLM + prompt “patterns”) to extract summaries, insights, wisdom, etc.
 
