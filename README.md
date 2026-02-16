@@ -5,7 +5,8 @@
 
 Turn any YouTube video into a clean transcript, then run an AI “pattern” over it (e.g., **extract key ideas / wisdom**) using **Fabric**.
 
-<img width="1231" height="668" alt="image" src="https://github.com/user-attachments/assets/eff572b1-2948-4b73-92c1-fdfcc7e88396" />
+<img width="1279" height="714" alt="image" src="https://github.com/user-attachments/assets/936e6ca4-dcdc-4aa5-9867-dc5e863bdd0e" />
+
   
 
 `inscribe.sh` is an interactive Bash script that:
