@@ -868,7 +868,7 @@ Create a file named `LICENSE` and add the MIT license text (template below), the
 
   
 
-### MIT License template (for your repo)
+### MIT License template
 
   
 
