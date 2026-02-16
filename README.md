@@ -1,6 +1,7 @@
 # Inscribe
 
-  
+<img width="1231" height="668" alt="image" src="https://github.com/user-attachments/assets/eff572b1-2948-4b73-92c1-fdfcc7e88396" />
+
 
 Turn any YouTube video into a clean transcript, then run an AI “pattern” over it (e.g., **extract key ideas / wisdom**) using **Fabric**.
 
