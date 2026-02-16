@@ -848,17 +848,9 @@ PRs welcome. Ideas:
 
   
 
-### This repository
-
-**Choose a license** for your own script/repo (recommended: MIT for a simple CLI script).
-
   
 
-Create a file named `LICENSE` and add the MIT license text (template below), then set the year/name.
-
-  
-
-### Dependency licenses (FYI)
+### Dependency licenses
 
 - **Fabric** is MIT-licensed. ([Fabric](https://github.com/danielmiessler/Fabric/blob/main/LICENSE))
 
@@ -868,7 +860,7 @@ Create a file named `LICENSE` and add the MIT license text (template below), the
 
   
 
-### MIT License template
+### MIT License
 
   
 
